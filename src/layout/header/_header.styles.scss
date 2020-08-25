@@ -1,0 +1,13 @@
+.header {
+    flex: 0 0 8rem;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    box-shadow: $box-shadow-1;
+    padding: 0 3rem;
+    &__nav {
+        flex: 1;
+        max-width: 130rem;
+        @include flex(center, flex-end);
+    }
+}

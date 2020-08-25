@@ -1,0 +1,57 @@
+//! COLORS
+
+$color-bg-main: rgb(238, 240, 248); // BACKGROUND
+$color-bg-secondary: #f4f6f9; // BACKGROUND
+$color-text-main: #3f4254; // BODY TEXT COLOR
+$color-text-secondary: #b5b5c3; // FOR SUB TEXT
+
+$color-blue--main: #015fb6;
+
+// SIDEBAR
+$color-sidebar-main: #1e1e2d;
+$color-sidebar-secondary: #1a1a27;
+
+$color-red-1: #f64e60;
+
+$color-menu-text: #6c7293;
+
+$color-btn-hover: #f3f6f9;
+
+$color-icon-default: #b5b5c3;
+$color-icon-default-sidebar: #494b74;
+$color-icon-active: #3699ff;
+
+// INPUT
+$color-input-border: #e4e6ef;
+$color-input-border-focus: #a377ea;
+$color-input-placeholder: rgba(63, 66, 84, 0.4);
+
+// SELECT
+$color-select-dropdown-hover: #cbb2f3;
+
+// CARD
+$color-card-header-primary: #464f7e;
+$color-card-1: #d9f6f4;
+$color-card-2: #e6effe;
+$color-card-3: #f7e2e5;
+
+// SCROLLER COLORS
+$color-scroll-thumb: #58649f;
+$color-scroll-thumb-hover: #3a4168;
+
+//! SHADOWS
+$box-shadow-1: 0 0 0.8rem 0.5rem rgba(0, 0, 0, 0.05);
+$box-shadow-2: 0 0 0.5rem 0.2rem rgba(0, 0, 0, 0.05);
+
+// BORDER RADIUS
+$border-radius-main: 0.5rem;
+
+$start-animation-duration-1: 1s;
+$start-animation-duration-2: 2s;
+$start-animation-duration-3: 3s;
+
+$animation-delay-1: 1s;
+$animation-delay-1_5: 1.5s;
+
+$animation-delay-2: 2s;
+$animation-delay-3: 2.5s; // slider and man

@@ -1,0 +1,26 @@
+.nav-link {
+    padding: 0 2rem;
+    color: $color-blue--main;
+    white-space: pre;
+
+    &:after {
+        margin-top: 0.5rem;
+        display: block;
+        content: "";
+        border-bottom: solid 0.1rem $color-blue--main;
+        transform: scaleX(0);
+        transition: transform 250ms ease-in-out;
+    }
+
+    &:hover {
+        &:after {
+            transform: scaleX(1.15);
+        }
+    }
+
+    &.active {
+        &:after {
+            transform: scaleX(1.15);
+        }
+    }
+}

@@ -1,0 +1,30 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+//ABSTRACTS
+@import "./sass/abstracts/variables";
+@import "./sass/abstracts/mixins";
+@import "./sass/abstracts/animations";
+
+//RESET
+@import "./sass/reset";
+
+//BASE
+@import "./sass/base/base";
+@import "./sass/base/typography";
+@import "./sass/base/utilities";
+
+// COMPONENTS
+@import "./components/nav-link/nav-link.styles";
+@import "./components/home-card/home-card.styles";
+@import "./components/icon/icon";
+
+// LAYOUT
+@import "./layout/header/header.styles";
+
+// PAGES
+@import "./pages/about/about.styles";
+@import "./pages/contacts/contacts.styles";
+@import "./pages/home/home.styles";
+
+// APP
+@import "./App/app.scss";

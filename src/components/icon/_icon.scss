@@ -1,0 +1,26 @@
+.icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0.4s;
+
+    &.sidebar {
+        color: $color-icon-default-sidebar;
+    }
+    &.button {
+        padding: 0.8rem;
+        border-radius: $border-radius-main;
+        color: $color-icon-default;
+        &:hover {
+            background-color: rgba(151, 151, 151, 0.1);
+            color: $color-icon-active;
+        }
+    }
+
+    &.active {
+        color: $color-icon-active;
+    }
+}
+
+// ion-icon {
+// }

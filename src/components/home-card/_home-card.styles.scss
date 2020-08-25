@@ -1,0 +1,15 @@
+.home-card {
+    cursor: pointer;
+    display: inline-grid;
+    grid-template-rows: max-content 6rem;
+    justify-items: center;
+    gap: 2rem;
+    &__icon {
+        font-size: 7rem;
+        color: $color-blue--main;
+    }
+
+    &__text {
+        text-align: center;
+    }
+}
