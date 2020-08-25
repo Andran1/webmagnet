@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/webmagnet/static/css/main.9ebb56ca.chunk.css",
+    "main.js": "/webmagnet/static/js/main.dda94e4f.chunk.js",
+    "main.js.map": "/webmagnet/static/js/main.dda94e4f.chunk.js.map",
+    "runtime-main.js": "/webmagnet/static/js/runtime-main.d1eb596a.js",
+    "runtime-main.js.map": "/webmagnet/static/js/runtime-main.d1eb596a.js.map",
+    "static/css/2.4be015c5.chunk.css": "/webmagnet/static/css/2.4be015c5.chunk.css",
+    "static/js/2.406b567e.chunk.js": "/webmagnet/static/js/2.406b567e.chunk.js",
+    "static/js/2.406b567e.chunk.js.map": "/webmagnet/static/js/2.406b567e.chunk.js.map",
+    "index.html": "/webmagnet/index.html",
+    "precache-manifest.eb2a0882f056442cb7c67c990f957ce3.js": "/webmagnet/precache-manifest.eb2a0882f056442cb7c67c990f957ce3.js",
+    "service-worker.js": "/webmagnet/service-worker.js",
+    "static/css/2.4be015c5.chunk.css.map": "/webmagnet/static/css/2.4be015c5.chunk.css.map",
+    "static/css/main.9ebb56ca.chunk.css.map": "/webmagnet/static/css/main.9ebb56ca.chunk.css.map",
+    "static/js/2.406b567e.chunk.js.LICENSE.txt": "/webmagnet/static/js/2.406b567e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1eb596a.js",
+    "static/css/2.4be015c5.chunk.css",
+    "static/js/2.406b567e.chunk.js",
+    "static/css/main.9ebb56ca.chunk.css",
+    "static/js/main.dda94e4f.chunk.js"
+  ]
+}
